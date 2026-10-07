@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-07",
+  "wave": "FORENSIC_TOOLS_WIKIS_REPOS_first_wave",
+  "accounts_extract_folds": 9,
+  "orgs_primary": ["theospora"],
+  "legacy_accounts_noted": ["laki97079-creator", "km-mt", "NAA-SMAA"],
+  "theospora_repo_dirs": 65,
+  "wikis_matched": 41,
+  "wikis_pages_landed": 0,
+  "wiki_git_hold": true,
+  "phone_fs_unique_bodies": 3,
+  "phone_fs_delta_new": 0,
+  "truth_repo": "theospora/NEAKOSMOMORPHIA",
+  "tools_live": ["agentmemory_bifrost_8080", "ollama_leave"],
+  "tools_hold": ["cognee_8000_down", "cognify_POST_RAM_cliff"],
+  "git_land_branch_target": "forensic/inventory-20261007",
+  "git_land_status": "box_ready_remote_deferred"
+}
